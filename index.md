@@ -4,7 +4,7 @@ title: Koen Rademaker's CV
 ---
 # Koen Rademaker
 
-PhD student in the Tim Coorens group at the European Bioinformatics Institute (EMBL-EBI), Cambridge, UK. I focus on computational analysis of single-cell and spatial mutational data to uncover how human development and disease emerge.<br/>
+PhD student in the Tim Coorens group at the European Bioinformatics Institute (EMBL-EBI) and the University of Cambridge, UK. I focus on computational analysis of single-cell and spatial mutational data to uncover human development and cancer origins.<br/>
 
 <a href="mailto:rademaker@ebi.ac.uk">rademaker@ebi.ac.uk</a>
 
@@ -17,53 +17,58 @@ PhD student in the Tim Coorens group at the European Bioinformatics Institute (E
 
 ## About me
 
-I am a 1st year PhD in Tim Coorens’ group at EMBL-EBI in Cambridge (UK), where I focus on computational analysis of single-cell and spatial mutational data to uncover human development and disease origins. How exactly humans develop is a question that fascinates me, from the scale of cells to evolutionary history.
+I am a PhD student in Tim Coorens’ group at EMBL-EBI and the University of Cambridge, where I focus on computational analysis of single-cell and spatial mutational data to uncover human development and cancer origins. How exactly humans develop is a question that fascinates me, from the scale of cells to evolutionary history.
 
-Previously, I completed degrees in bioinformatics and systems biology in the Netherlands (BSc in Nijmegen, MSc in Amsterdam), and graduated with an MSc thesis co-supervised by Oliver Stegle (DKFZ, Heidelberg) and Omer Bayraktar (Wellcome Sanger, Cambridge).
+Previously, I completed degrees in bioinformatics and systems biology in the Netherlands (BSc in Nijmegen, MSc in Amsterdam). My MSc thesis was co-supervised by Oliver Stegle (DKFZ, Heidelberg) and Omer Bayraktar (Wellcome Sanger Institute, Cambridge).
 
-Following graduation, I continued working as a bioinformatician in the Bayraktar group, where I analysed high-throughput single-cell and spatially resolved transcriptomics to uncover mechanisms behind neurodevelopment, spinal cord injury and glioblastoma.
+After graduating, I worked as a bioinformatician in the Bayraktar group at the Wellcome Sanger Institute. I analysed high-throughput single-cell and spatially resolved transcriptomics to uncover mechanisms behind neurodevelopment, spinal cord injury and glioblastoma, gaining experience with 10x Genomics Xenium and scRNA-seq/snRNA-seq data.
 
 Get to know more on the Publications, Talks or CV pages above!
 
 ## Experience
 
-`Sep 2024 - Present`
-**PhD student**, _Tim Coorens group_, **EMBL-EBI** (Cambridge, UK)<br>
-Computational analysis of single-cell and spatial mutational data to investigate human development and disease origins, with a focus on understanding how developmental programmes and disease-associated changes arise from cellular and tissue architecture.
+`Oct 2026 - Present`
+**Predoctoral Fellow (PhD student)**, _Coorens group_, **European Bioinformatics Institute (EMBL-EBI)** (Cambridge, UK)<br>
+Computational analysis of single-cell and spatial mutational data to investigate human development and cancer origins.
 
-`Oct 2023 - Aug 2024`
-**Bioinformatician**, _Bayraktar group_, **Wellcome Sanger Institute** (Cambridge, UK)<br>
-Analysed high-throughput single-cell and spatial transcriptomics datasets to investigate neurodevelopment, spinal cord injury and glioblastoma. Developed and applied computational workflows for data integration, cell-state annotation and exploratory analysis.
+`Feb 2024 - Aug 2026`
+**Bioinformatician**, _Bayraktar group (Cellular Genomics)_, **Wellcome Sanger Institute** (Cambridge, UK)<br>
+Computational analysis of single-cell and spatial omics data to uncover cellular changes during human neurodevelopment and disease. Analysed 10x Genomics Xenium and scRNA-seq/snRNA-seq datasets and adapted computational workflows to emerging spatial platforms. Research included autism-associated genes in neurodevelopment, spinal cord injury and glioblastoma.
 
-`Apr 2023 - Sep 2023`
-**MSc internship**, _Computational Genomics and System Genetics group (Oliver Stegle)_, **German Cancer Research Center** (Heidelberg)<br>
-Statistical modelling of cell type-specific expression changes in neurodevelopmental disorders from 10x Genomics Visium spatial transcriptomics data. Supervised by prof. Dr. Oliver Stegle and Dr. Alexander Aivazidis.<br>
+`Mar 2021 - Feb 2026`
+**Webmaster**, **De Jonge Psychiater**<br>
+Supported publication of articles on the platform and promotion through its social media channels. De Jonge Psychiater is a platform by and for young psychiatrists, covering science communication, books, and developments in society and law in psychiatry.
 
-`May 2022 - Jun 2022` **Teaching Assistant**, _University of Amsterdam_<br>
-Assisting with online and on-campus computer practicals for students, and supporting teaching staff with practical issues and grading for the course(s):
-* Image Processing and Quantitative Data Analysis (with Dr. Marten Postma).<br>
+`Apr 2023 - Oct 2023`
+**Bioinformatics Research Intern**, _Computational Genomics and Systems Genetics group (Oliver Stegle)_, **German Cancer Research Center (DKFZ)** (Heidelberg, Germany)<br>
+Research project jointly conducted with the Bayraktar group at the Wellcome Sanger Institute. Modelled cell type-specific expression changes in neurodevelopmental disorders using 10x Genomics Visium spatial transcriptomics data. Supervised by Oliver Stegle and Alexander Aivazidis.<br>
+
+`May 2022 - Jun 2022`
+**Teaching Assistant**, **University of Amsterdam**<br>
+Assisted with online and on-campus computer practicals, supported teaching staff, and helped with grading for Image Processing and Quantitative Data Analysis (with Dr. Marten Postma).<br>
 
 `Sep 2021 - Feb 2022`
 **MSc internship**, _Chromatin Genomics group (Bas van Steensel)_, **Netherlands Cancer Institute** (Amsterdam)<br>
-Developed a pipeline for mapping genomic rearrangement experiments and downstream analyses. Supervised by prof. Dr. Bas van Steensel, Dr. Lise Dauban and Mathias Eder MSc.<br>
+Developed a pipeline for mapping genomic rearrangement experiments and downstream analyses. Supervised by Prof. Dr. Bas van Steensel, Dr. Lise Dauban and Mathias Eder MSc.<br>
 
-`Jan 2021 - May 2022` **Teaching Assistant**, _Vrije Universiteit Amsterdam_<br>
-Assisting with online and on-campus computer practicals for students, and supporting teaching staff with practical issues and grading for the course(s):
+`Jan 2021 - May 2022`
+**Teaching Assistant**, **Vrije Universiteit Amsterdam**<br>
+Assisted with online and on-campus computer practicals, supported teaching staff, and helped with grading for:
 * Structural Bioinformatics (2021 edition, with Dr. Anton Feenstra)
 * Bioinformatics for Translational Medicine (2021 and 2022 editions, with Dr. Evert Bosdriesz)
 * Introduction to Bioinformatics (2022 edition, with Dr. Evert Bosdriesz)
-<br>
 
-`Sep 2020 - Jun 2022` **Peer Mentor**, _Vrije Universiteit Amsterdam_<br>
-I helped groups of new students (2020/2021 and 2021/2022 cohorts) navigate the MSc program in Bioinformatics & Systems Biology through regular informal meetings.<br>
+`Sep 2020 - Jun 2022`
+**Peer Mentor**, **Vrije Universiteit Amsterdam**<br>
+Helped groups of new students (2020/2021 and 2021/2022 cohorts) navigate the MSc program in Bioinformatics & Systems Biology through regular informal meetings.<br>
 
 `Feb 2019 - Sep 2019`
 **BSc internship**, _Department of Translational Neuroscience_, **UMC Utrecht**<br>
-Identification of neuronal cells involved in schizophrenia through integration of scRNA-seq and GWAS data for cell type enrichment methods DEPICT, MAGMA, LDSC and FUMA. Supervision by Dr. Bochao Lin.<br>
+Identified neuronal cells involved in schizophrenia by integrating scRNA-seq and GWAS data using cell type enrichment methods DEPICT, MAGMA, LDSC and FUMA. Supervised by Dr. Bochao Lin.<br>
 
 `Sep 2017 - Jan 2018`
 **BSc internship**, _Translational Metabolic Laboratory_, **Radboudumc** (Nijmegen)<br>
-Application of bioinformatics for glycopeptide profiling to study congenital disorders of glycosylation. Supervised by Dr. Hans Wessels.<br>
+Applied bioinformatics to glycopeptide profiling to study congenital disorders of glycosylation. Supervised by Dr. Hans Wessels.<br>
 
 ## Education
 
@@ -71,7 +76,7 @@ Application of bioinformatics for glycopeptide profiling to study congenital dis
 **MSc Bioinformatics and Systems Biology**, Vrije Universiteit Amsterdam / University of Amsterdam<br/>
 Thesis: "Mapping cell type-specific differential expression of trisomy 21 in spatially resolved fetal brain development".<br/>
 Supervisors: Prof. Dr. Oliver Stegle (German Cancer Research Center), Dr. Alexander Aivazidis (Wellcome Sanger Institute).<br/>
-Courses: Fundamentals of Bioinformatics, Introduction to Systems Biology, Algorithms in Sequence Analysis, Biosystems Data Analysis, Signal Transduction in Health and Disease, Structural Bioinformatics and Systems Medicine.<br/>
+Courses: Fundamentals of Bioinformatics, Introduction to Systems Biology, Algorithms in Sequence Analysis, Biosystems Data Analysis, Signal Transduction in Health and Disease, Structural Bioinformatics, Bioinformatics for Translational Medicine, Statistics with R, Machine Learning, Deep Learning, Genomes and Gene Expression, and Gene Finding: GWAS and Beyond.<br/>
 
 `2015-2019`
 **BSc Bioinformatics**, HAN University of Applied Sciences<br/>

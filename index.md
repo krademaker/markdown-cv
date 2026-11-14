@@ -15,16 +15,6 @@ PhD student in the Tim Coorens group at the European Bioinformatics Institute (E
   <a href="https://www.linkedin.com/in/koen-rademaker"><i class="ai linkedin"></i> LinkedIn</a>
 </div>
 
-## About me
-
-I am a PhD student in Tim Coorens’ group at EMBL-EBI and the University of Cambridge, where I focus on computational analysis of single-cell and spatial mutational data to uncover human development and cancer origins. How exactly humans develop is a question that fascinates me, from the scale of cells to evolutionary history.
-
-Previously, I completed degrees in bioinformatics and systems biology in the Netherlands (BSc in Nijmegen, MSc in Amsterdam). My MSc thesis was co-supervised by Oliver Stegle (DKFZ, Heidelberg) and Omer Bayraktar (Wellcome Sanger Institute, Cambridge).
-
-After graduating, I worked as a bioinformatician in the Bayraktar group at the Wellcome Sanger Institute. I analysed high-throughput single-cell and spatially resolved transcriptomics to uncover mechanisms behind neurodevelopment, spinal cord injury and glioblastoma, gaining experience with 10x Genomics Xenium and scRNA-seq/snRNA-seq data.
-
-Get to know more on the Publications, Talks or CV pages above!
-
 ## Experience
 
 `Oct 2026 - Present`
@@ -34,10 +24,6 @@ Computational analysis of single-cell and spatial mutational data to investigate
 `Feb 2024 - Aug 2026`
 **Bioinformatician**, _Bayraktar group (Cellular Genomics)_, **Wellcome Sanger Institute** (Cambridge, UK)<br>
 Computational analysis of single-cell and spatial omics data to uncover cellular changes during human neurodevelopment and disease. Analysed 10x Genomics Xenium and scRNA-seq/snRNA-seq datasets and adapted computational workflows to emerging spatial platforms. Research included autism-associated genes in neurodevelopment, spinal cord injury and glioblastoma.
-
-`Mar 2021 - Feb 2026`
-**Webmaster**, **De Jonge Psychiater**<br>
-Supported publication of articles on the platform and promotion through its social media channels. De Jonge Psychiater is a platform by and for young psychiatrists, covering science communication, books, and developments in society and law in psychiatry.
 
 `Apr 2023 - Oct 2023`
 **Bioinformatics Research Intern**, _Computational Genomics and Systems Genetics group (Oliver Stegle)_, **German Cancer Research Center (DKFZ)** (Heidelberg, Germany)<br>
@@ -83,27 +69,7 @@ Courses: Fundamentals of Bioinformatics, Introduction to Systems Biology, Algori
 Thesis: "Targeting brain cell types underlying schizophrenia".<br/>
 Supervisor: Dr. Bochao Lin, UMC Utrecht.<br>
 
-<!-- ## Coding
-
-`Proficient`
-Language 1
-
-`Intermediate`
-Language 2
-
-`Rusty`
-Language 3-->
 
 ## Publications
 
 Publications are also listed on [ORCID](https://orcid.org/0000-0003-3059-5183).
-
-### Peer-reviewed publications
-
-`2022`
-
-M. Olislagers, **K. Rademaker**, R. A. H. Adan, B. D. Lin & J. J. Luykx. 'Comprehensive analyses of RNA-seq and genome-wide data point to enrichment of neuronal cell type subsets in neuropsychiatric disorders.'
-
-### Pre-prints
-
-M. Olislagers, **K. Rademaker**, R. A. H. Adan, B. D. Lin & J. J. Luykx. ‘Comprehensive analyses of RNA-seq and genome-wide data point to enrichment of neuronal cell type subsets in neuropsychiatric disorders.’

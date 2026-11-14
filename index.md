@@ -67,9 +67,23 @@ Courses: Fundamentals of Bioinformatics, Introduction to Systems Biology, Algori
 `2015-2019`
 **BSc Bioinformatics**, HAN University of Applied Sciences<br/>
 Thesis: "Targeting brain cell types underlying schizophrenia".<br/>
-Supervisor: Dr. Bochao Lin, UMC Utrecht.<br>
-
+Supervisor: Dr. Bochao Lin, UMC Utrecht.<br/>
 
 ## Publications
 
 Publications are also listed on [ORCID](https://orcid.org/0000-0003-3059-5183).
+
+### Peer-reviewed publications
+
+- G. de Jong*, F. Memi*, T. Gracia*, et al. “A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity”. https://doi.org/10.1038/s41586-026-11234-8 (2026)
+- K. To, J. P. Pett, O. Dufva, et al. “Spatially resolved multiomics of human meningeal development reveal lineage and disease dynamics”. https://doi.org/10.1038/s41556-026-02075-8 (2026)
+- L. Dauban, M. Eder, M. de Haas, V. H. Franceschini-Santos, J. O. Yañez-Cuna, M. Martinovic, T. van Schaik, C. Leemans, H. Teunissen, K. Rademaker, M. Martinez Ara, M. Verkuilen, E. de Wit, B. van Steensel, et al. “Interactions between the genome and the nuclear lamina are multivalent and cooperative”. https://doi.org/10.1038/s41594-025-01655-w (2025)
+- M. Olislagers, K. Rademaker, et al. “Comprehensive analyses of RNA-seq and genome-wide data point to enrichment of neuronal cell type subsets in neuropsychiatric disorders”. https://doi.org/10.1038/s41380-021-01324-6 (2022)
+
+### Preprints
+
+- Y. He, A. Ebneabbasi, K. Rademaker, et al. “Polygenic effects on cortical size and ADHD converge on a mid-gestational progenitor-to-neuron transition programme”. https://doi.org/10.64898/2026.09.21.26363544 (2026)
+- A. Aivazidis*, F. Memi*, K. Rademaker*, et al. “A spatial transcriptomic atlas of autism-associated genes identifies convergence in the developing human thalamus”. https://doi.org/10.1101/2025.11.05.685843 (2025)
+- A. Akbarnejad, L. Steele, D. J. Jafree, S. Birk, M. R. Sallese*, K. Rademaker, et al. “Mapping and reprogramming microenvironment-induced cell states in human disease using generative AI”. https://doi.org/10.1101/2025.06.24.661094 (2025)
+- L. Dauban, M. Eder, M. de Haas, V. H. Franceschini-Santos, J. O. Yañez-Cuna, T. van Schaik, C. Leemans, K. Rademaker, et al. “Genome–nuclear lamina interactions are multivalent and cooperative”. https://doi.org/10.1101/2024.01.10.574825 (2024)
+- M. Olislagers, K. Rademaker, et al. “Comprehensive analyses of RNA-seq and genome-wide data point to enrichment of neuronal cell type subsets in neuropsychiatric disorders”. https://doi.org/10.1101/2021.05.06.442982 (2021)

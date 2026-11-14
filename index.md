@@ -4,7 +4,7 @@ title: Koen Rademaker's CV
 ---
 # Koen Rademaker
 
-PhD student in the Tim Coorens group at the European Bioinformatics Institute (EMBL-EBI) and the University of Cambridge, UK. I focus on computational analysis of single-cell and spatial mutational data to uncover human development and cancer origins.<br/>
+PhD student with Tim Cooren at the European Bioinformatics Institute (EMBL-EBI) and the University of Cambridge, UK. I focus on computational analysis of single-cell and spatial mutational data to uncover human development and cancer origins.<br/>
 
 <a href="mailto:rademaker@ebi.ac.uk">rademaker@ebi.ac.uk</a>
 
